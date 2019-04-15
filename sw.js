@@ -7,10 +7,9 @@ const IMUTAVEL_CACHE 	= 'imutavel-v1';
 
 const APP_SHELL = 
 [
-	'/',
+	//'/',
 	'index.html',
 	'css/style.css',
-	'css/animate.css',
 	'img/favicon.ico',
 	'img/avatars/hulk.jpg',
 	'img/avatars/ironman.jpg',
